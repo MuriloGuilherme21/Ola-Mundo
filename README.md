@@ -1,4 +1,4 @@
 # Olá, Mundo!
- Primeiro repositório do Curso de GtHub
+ Primeiro repositório do Curso de GitHub
 
  
